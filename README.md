@@ -1,5 +1,9 @@
-# List-of-interesting-blogs
+# List of interesting blogs
 Made a list of interesting blogs that I can keep track of
+
+Startups/Business:
+<br> blog.pmarca.com
+<br> www.mondaynote.com
 
 Javascript:
 DailyJs.com
