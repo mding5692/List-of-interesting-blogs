@@ -5,6 +5,9 @@ Startups/Business:
 <br> http://blog.pmarca.com
 <br> www.mondaynote.com
 
+Game Development/Design:
+<br> www.gamasutra.com
+
 Product Management:
 
 Design:
