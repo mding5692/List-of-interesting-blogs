@@ -33,4 +33,4 @@ Tech News:
 
 Travel:
 http://www.idlewords.com/
-http://www.atlasobscura.com/
+<br>http://www.atlasobscura.com/
