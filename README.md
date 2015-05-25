@@ -1,6 +1,12 @@
 # List of interesting blogs
 Made a list of interesting blogs that I can keep track of
 
+Tutorials:
+<br> www.hackr.io
+<br> https://scotch.io/tutorials
+<br> http://www.toptal.com/blog
+<br> https://egghead.io/
+
 Startups/Business:
 <br> http://blog.pmarca.com
 <br> www.mondaynote.com
