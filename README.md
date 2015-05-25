@@ -21,8 +21,8 @@ IOS Development
 Software Development:
 
 Data Analysis:
-https://www.chrisstucchio.com/blog/index.html
-Data Visualization:
+<br>https://www.chrisstucchio.com/blog/index.html
+Data Visualization:<br>
 http://setosa.io/blog/
 
 Personal Finance:
