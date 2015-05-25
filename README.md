@@ -32,5 +32,5 @@ Personal Development:
 Tech News:
 
 Travel:
-http://www.idlewords.com/
+<br>http://www.idlewords.com/
 <br>http://www.atlasobscura.com/
