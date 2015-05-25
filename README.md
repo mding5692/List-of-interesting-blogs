@@ -5,6 +5,16 @@ Startups/Business:
 <br> http://blog.pmarca.com
 <br> www.mondaynote.com
 
+Product Management:
+
+Design:
+
+Marketing:
+
+Finance/Economics:
+
+Politics/Philosophy:
+
 Javascript:
 DailyJs.com
 
