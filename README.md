@@ -22,7 +22,7 @@ Software Development:
 
 Data Analysis:
 <br>https://www.chrisstucchio.com/blog/index.html
-Data Visualization:<br>
+<br>Data Visualization:<br>
 http://setosa.io/blog/
 
 Personal Finance:
