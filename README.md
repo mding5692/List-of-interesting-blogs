@@ -19,7 +19,7 @@ Finance/Economics:
 Politics/Philosophy:
 
 Javascript:
-DailyJs.com
+www.dailyjs.com
 
 Python:
 
