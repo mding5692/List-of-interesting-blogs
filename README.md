@@ -41,7 +41,8 @@ Android Development
 
 IOS Development
 
-Software Development:
+Software Development/Engineering:
+<br> www.bravenewgeek.com
 
 Data Analysis:
 <br>https://www.chrisstucchio.com/blog/index.html
