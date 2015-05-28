@@ -55,6 +55,8 @@ Personal Finance:
 Personal Development:
 
 Tech News:
+<br> http://morningreader.com/top
+<br> http://news.ycombinator.com
 
 Travel:
 <br>http://www.idlewords.com/
