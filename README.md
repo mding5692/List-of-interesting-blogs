@@ -6,6 +6,7 @@ Tutorials:
 <br> https://scotch.io/tutorials
 <br> http://www.toptal.com/blog
 <br> https://egghead.io/
+<br> https://http://apprentice.craic.com/tutorials
 
 Startups/Business:
 <br> http://blog.pmarca.com
