@@ -1,5 +1,8 @@
-# List of interesting blogs
+# List of interesting blogs and now other useful stuff
 Made a list of interesting blogs that I can keep track of
+
+Ideas:
+<br> http://www.musklevel.com/
 
 Tutorials:
 <br> www.hackr.io
