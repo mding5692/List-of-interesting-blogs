@@ -11,6 +11,9 @@ Tutorials:
 <br> https://egghead.io/
 <br> http://apprentice.craic.com/tutorials
 
+Academia:
+<br> http://blog.regehr.org/
+
 Startups/Business:
 <br> http://blog.pmarca.com
 <br> www.mondaynote.com
