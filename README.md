@@ -20,6 +20,7 @@ Product Management:
 Design:
 
 Marketing:
+<br> https://www.compile.com/blog/
 
 Finance/Economics:
 
