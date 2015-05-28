@@ -37,6 +37,9 @@ Databases:
 
 Servers:
 
+Cloud:
+<br> http://cloudacademy.com/blog/
+
 Web Development:
 
 Android Development
