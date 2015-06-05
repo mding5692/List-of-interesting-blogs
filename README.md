@@ -19,6 +19,7 @@ Startups/Business:
 <br> www.mondaynote.com
 <br> http://nerds.airbnb.com/
 <br> http://blog.fogcreek.com
+<br> http://techblog.netflix.com/
 
 Game Development/Design:
 <br> www.gamasutra.com
