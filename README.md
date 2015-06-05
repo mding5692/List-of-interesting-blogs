@@ -18,6 +18,7 @@ Startups/Business:
 <br> http://blog.pmarca.com
 <br> www.mondaynote.com
 <br> http://nerds.airbnb.com/
+<br> http://blog.fogcreek.com
 
 Game Development/Design:
 <br> www.gamasutra.com
