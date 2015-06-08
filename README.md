@@ -58,6 +58,7 @@ IOS Development
 Software Development/Engineering:
 <br> www.bravenewgeek.com
 <br> http://raganwald.com/
+<br> http://simpleprogrammer.com/
 
 Data Analysis:
 <br>https://www.chrisstucchio.com/blog/index.html
