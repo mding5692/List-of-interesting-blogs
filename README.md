@@ -15,6 +15,7 @@ Academia:
 <br> http://blog.regehr.org/
 
 Startups/Business:
+<br> http://andrewchen.co/
 <br> http://blog.pmarca.com
 <br> www.mondaynote.com
 <br> http://nerds.airbnb.com/
