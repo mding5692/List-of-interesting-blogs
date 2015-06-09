@@ -62,6 +62,8 @@ Software Development/Engineering:
 
 Data Analysis:
 <br>https://www.chrisstucchio.com/blog/index.html
+<br> http://www.evanmiller.org/
+
 <br>Data Visualization:<br>
 http://setosa.io/blog/
 
