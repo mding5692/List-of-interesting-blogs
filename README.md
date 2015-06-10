@@ -61,6 +61,8 @@ Software Development/Engineering:
 <br> http://raganwald.com/
 <br> http://simpleprogrammer.com/
 <br> http://www.codersnotes.com/
+
+
 Data Analysis:
 <br>https://www.chrisstucchio.com/blog/index.html
 <br> http://www.evanmiller.org/
