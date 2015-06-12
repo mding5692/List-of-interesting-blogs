@@ -82,3 +82,6 @@ Tech News:
 Travel:
 <br>http://www.idlewords.com/
 <br>http://www.atlasobscura.com/
+
+General:
+<br>http://www.johndcook.com/blog/
