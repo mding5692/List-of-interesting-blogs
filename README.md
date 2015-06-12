@@ -63,9 +63,10 @@ Software Development/Engineering:
 <br> http://www.codersnotes.com/
 
 
-Data Analysis:
+Data Analysis/Stats:
 <br>https://www.chrisstucchio.com/blog/index.html
 <br> http://www.evanmiller.org/
+<br> http://statspotting.com/
 
 <br>Data Visualization:<br>
 http://setosa.io/blog/
