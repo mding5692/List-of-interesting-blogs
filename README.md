@@ -62,6 +62,9 @@ Software Development/Engineering:
 <br> http://simpleprogrammer.com/
 <br> http://www.codersnotes.com/
 
+Security:
+<br> http://www.thoughtcrime.org/
+<br> https://paragonie.com/blog
 
 Data Analysis/Stats:
 <br>https://www.chrisstucchio.com/blog/index.html
