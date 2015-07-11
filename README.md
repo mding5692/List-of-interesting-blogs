@@ -61,6 +61,7 @@ Software Development/Engineering:
 <br> http://raganwald.com/
 <br> http://simpleprogrammer.com/
 <br> http://www.codersnotes.com/
+<br> http://coding-geek.com/
 
 Security:
 <br> http://www.thoughtcrime.org/
