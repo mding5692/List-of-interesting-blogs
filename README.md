@@ -51,6 +51,7 @@ Cloud:
 <br> http://cloudacademy.com/blog/
 
 Web Development:
+<br> http://joequery.me/
 
 Android Development
 
