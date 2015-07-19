@@ -62,6 +62,7 @@ Software Development/Engineering:
 <br> http://simpleprogrammer.com/
 <br> http://www.codersnotes.com/
 <br> http://coding-geek.com/
+<br> http://www.labnol.org/
 
 Security:
 <br> http://www.thoughtcrime.org/
